@@ -1,0 +1,37 @@
+server:
+  port: 3344
+spring:
+  application:
+    name: cloud-config-center
+
+  cloud:
+    config:
+      server:
+        git:
+          uri:  https://github.com/echo-Nemo/springcloud-config.git
+          search-paths:
+            - springcloud-config
+          force-pull: true              # 需要填上github的用户名和密码 才能访问到剧吐
+          username: echo-Nemo
+          password: h1342525123
+
+      label: master
+eureka:
+  client:
+    service-url:
+      defaultZone:  http://localhost:7001/eureka
+
+# 结合mq进行消息的传送
+rabbitmq:
+  host: localhost
+  port: 15672
+  username: guest
+  password: guest
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: 'bus-refresh'
+
+

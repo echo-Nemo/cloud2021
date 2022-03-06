@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloud-config3344" />
+        <module name="cloud-feign-hystrix-order9001" />
+        <module name="com.echo.provider-payment8002" />
+        <module name="cloud-ailibaba-nacos-provider9002" />
+        <module name="cloud-hystrix-payment9001" />
+        <module name="cloud-provider-payment8003" />
+        <module name="cloud-rabbitmq-stream-provider8801" />
+        <module name="cloud-rabbitmq-stream-consume8803" />
+        <module name="seate-account-service2003" />
+        <module name="cloud-rabbitmq--consume8802" />
+        <module name="cloud-consume-hystrix-dashboard9002" />
+        <module name="cloud-alibaba-payment9004" />
+        <module name="cloud-alibaba-consume-order84" />
+        <module name="cloud-gateway9527" />
+        <module name="seata-storage-service2002" />
+        <module name="cloudalibaba-sentinel-service8848" />
+        <module name="cloud-alibaba-payment9003" />
+        <module name="cloud-eureka7001" />
+        <module name="cloud-config-client3355" />
+        <module name="cloud-feign-orderFeign80" />
+        <module name="seata-order-service2001" />
+        <module name="cloud-alibaba-nacos-config-client3377" />
+        <module name="cloud-eureka7002" />
+        <module name="cloudalibaba-payment9004" />
+        <module name="cloudalibaba-payment9003" />
+        <module name="cloudailibaba-nacos-provider9001" />
+        <module name="cloud-config-bus3366" />
+        <module name="cloud-order-payment80" />
+        <module name="cloud-common" />
+        <module name="cloud-ailibaba-nacos-consume-order83" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cloud-ailibaba-nacos-consume-order83" target="1.8" />
+      <module name="cloud-ailibaba-nacos-provider9002" target="1.8" />
+      <module name="cloud-alibaba-consume-order84" target="1.8" />
+      <module name="cloud-alibaba-nacos-config-client3377" target="1.8" />
+      <module name="cloud-alibaba-payment9003" target="1.8" />
+      <module name="cloud-alibaba-payment9004" target="1.8" />
+      <module name="cloud-common" target="1.8" />
+      <module name="cloud-config-bus3366" target="1.8" />
+      <module name="cloud-config-client3355" target="1.8" />
+      <module name="cloud-config3344" target="1.8" />
+      <module name="cloud-consume-hystrix-dashboard9002" target="1.8" />
+      <module name="cloud-eureka7001" target="1.8" />
+      <module name="cloud-eureka7002" target="1.8" />
+      <module name="cloud-feign-hystrix-order9001" target="1.8" />
+      <module name="cloud-feign-orderFeign80" target="1.8" />
+      <module name="cloud-gateway9527" target="1.8" />
+      <module name="cloud-hystrix-payment9001" target="1.8" />
+      <module name="cloud-order-payment80" target="1.8" />
+      <module name="cloud-provider-payment8003" target="1.8" />
+      <module name="cloud-rabbitmq--consume8802" target="1.8" />
+      <module name="cloud-rabbitmq-stream-consume8803" target="1.8" />
+      <module name="cloud-rabbitmq-stream-provider8801" target="1.8" />
+      <module name="cloudailibaba-nacos-provider9001" target="1.8" />
+      <module name="cloudalibaba-payment9003" target="8" />
+      <module name="cloudalibaba-payment9004" target="8" />
+      <module name="cloudalibaba-sentinel-service8848" target="1.8" />
+      <module name="com.echo.provider-payment8002" target="1.8" />
+      <module name="seata-order-service2001" target="1.8" />
+      <module name="seata-storage-service2002" target="1.8" />
+      <module name="seate-account-service2003" target="1.8" />
+      <module name="spring.cloud2021" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

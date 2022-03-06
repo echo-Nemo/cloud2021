@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-ailibaba-nacos-consume-order83/cloud-ailibaba-nacos-consume-order83.iml" filepath="$PROJECT_DIR$/cloud-ailibaba-nacos-consume-order83/cloud-ailibaba-nacos-consume-order83.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-ailibaba-nacos-provider9002/cloud-ailibaba-nacos-provider9002.iml" filepath="$PROJECT_DIR$/cloud-ailibaba-nacos-provider9002/cloud-ailibaba-nacos-provider9002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba-consume-order84/cloud-alibaba-consume-order84.iml" filepath="$PROJECT_DIR$/cloud-alibaba-consume-order84/cloud-alibaba-consume-order84.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba-nacos-config-client3377/cloud-alibaba-nacos-config-client3377.iml" filepath="$PROJECT_DIR$/cloud-alibaba-nacos-config-client3377/cloud-alibaba-nacos-config-client3377.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba-payment9003/cloud-alibaba-payment9003.iml" filepath="$PROJECT_DIR$/cloud-alibaba-payment9003/cloud-alibaba-payment9003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba-payment9004/cloud-alibaba-payment9004.iml" filepath="$PROJECT_DIR$/cloud-alibaba-payment9004/cloud-alibaba-payment9004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-common/cloud-common.iml" filepath="$PROJECT_DIR$/cloud-common/cloud-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-config-bus3366/cloud-config-bus3366.iml" filepath="$PROJECT_DIR$/cloud-config-bus3366/cloud-config-bus3366.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-config-client3355/cloud-config-client3355.iml" filepath="$PROJECT_DIR$/cloud-config-client3355/cloud-config-client3355.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-config3344/cloud-config3344.iml" filepath="$PROJECT_DIR$/cloud-config3344/cloud-config3344.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-consume-hystrix-dashboard9002/cloud-consume-hystrix-dashboard9002.iml" filepath="$PROJECT_DIR$/cloud-consume-hystrix-dashboard9002/cloud-consume-hystrix-dashboard9002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-eureka7001/cloud-eureka7001.iml" filepath="$PROJECT_DIR$/cloud-eureka7001/cloud-eureka7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-eureka7002/cloud-eureka7002.iml" filepath="$PROJECT_DIR$/cloud-eureka7002/cloud-eureka7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-feign-hystrix-order9001/cloud-feign-hystrix-order9001.iml" filepath="$PROJECT_DIR$/cloud-feign-hystrix-order9001/cloud-feign-hystrix-order9001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-feign-orderFeign80/cloud-feign-orderFeign80.iml" filepath="$PROJECT_DIR$/cloud-feign-orderFeign80/cloud-feign-orderFeign80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-gateway9527/cloud-gateway9527.iml" filepath="$PROJECT_DIR$/cloud-gateway9527/cloud-gateway9527.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-hystrix-payment9001/cloud-hystrix-payment9001.iml" filepath="$PROJECT_DIR$/cloud-hystrix-payment9001/cloud-hystrix-payment9001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-order-payment80/cloud-order-payment80.iml" filepath="$PROJECT_DIR$/cloud-order-payment80/cloud-order-payment80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-provider-payment8003/cloud-provider-payment8003.iml" filepath="$PROJECT_DIR$/cloud-provider-payment8003/cloud-provider-payment8003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-rabbitmq--consume8802/cloud-rabbitmq--consume8802.iml" filepath="$PROJECT_DIR$/cloud-rabbitmq--consume8802/cloud-rabbitmq--consume8802.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-rabbitmq-stream-consume8803/cloud-rabbitmq-stream-consume8803.iml" filepath="$PROJECT_DIR$/cloud-rabbitmq-stream-consume8803/cloud-rabbitmq-stream-consume8803.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-rabbitmq-stream-provider8801/cloud-rabbitmq-stream-provider8801.iml" filepath="$PROJECT_DIR$/cloud-rabbitmq-stream-provider8801/cloud-rabbitmq-stream-provider8801.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudailibaba-nacos-provider9001/cloudailibaba-nacos-provider9001.iml" filepath="$PROJECT_DIR$/cloudailibaba-nacos-provider9001/cloudailibaba-nacos-provider9001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudalibaba-payment9003/cloudalibaba-payment9003.iml" filepath="$PROJECT_DIR$/cloudalibaba-payment9003/cloudalibaba-payment9003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudalibaba-payment9004/cloudalibaba-payment9004.iml" filepath="$PROJECT_DIR$/cloudalibaba-payment9004/cloudalibaba-payment9004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudalibaba-sentinel-service8848/cloudalibaba-sentinel-service8848.iml" filepath="$PROJECT_DIR$/cloudalibaba-sentinel-service8848/cloudalibaba-sentinel-service8848.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.echo.provider-payment8002/com.echo.provider-payment8002.iml" filepath="$PROJECT_DIR$/com.echo.provider-payment8002/com.echo.provider-payment8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seata-order-service2001/seata-order-service2001.iml" filepath="$PROJECT_DIR$/seata-order-service2001/seata-order-service2001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seata-storage-service2002/seata-storage-service2002.iml" filepath="$PROJECT_DIR$/seata-storage-service2002/seata-storage-service2002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seate-account-service2003/seate-account-service2003.iml" filepath="$PROJECT_DIR$/seate-account-service2003/seate-account-service2003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring.cloud2021.iml" filepath="$PROJECT_DIR$/spring.cloud2021.iml" />
+    </modules>
+  </component>
+</project>
