@@ -1,0 +1,11 @@
+server:
+  port: 8398
+
+spring:
+  application:
+    name: spring-code-learn
+
+
+
+
+
